@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (01_2D_transform_mvp.vcxproj, 01_3D_transform_mvp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gl3w.c
+  gl_utils.cpp
+C:\source\unisinos\computacao-grafica\aula-03\utils\gl_utils.cpp(7,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  01_3D_transform_mvp_model.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  01_3D_transform_mvp_model.vcxproj -> C:\source\unisinos\computacao-grafica\aula-03\x64\Debug\01_3D_transform_mvp_model.exe
