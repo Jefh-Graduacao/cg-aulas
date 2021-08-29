@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (02_hellotriangle_indexed.vcxproj, 03_hellotriangle_interleaved.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  00_hellotriangle.cpp
-  00_hellotriangle.vcxproj -> C:\source\unisinos\computacao-grafica\aula-02\x64\Debug\00_hellotriangle.exe

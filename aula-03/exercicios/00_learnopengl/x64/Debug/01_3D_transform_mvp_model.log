@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (01_2D_transform_mvp.vcxproj, 01_3D_transform_mvp.vcxproj, 01_3D_transform_mvp_model.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  01_3D_transform_mvp_model.cpp
-C:\source\unisinos\computacao-grafica\aula-03\exercicios\01_3D_transform_mvp_model\01_3D_transform_mvp_model.cpp(220,39): error C2065: 'index': undeclared identifier

@@ -1,3 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (01_2D_transform_mvp.vcxproj, 01_3D_transform_mvp.vcxproj, 01_3D_transform_mvp_model.vcxproj, tarefa1_2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  00_learnopengl.cpp
-  00_learnopengl.vcxproj -> C:\source\unisinos\computacao-grafica\aula-03\exercicios\x64\Debug\00_learnopengl.exe

@@ -1,1 +1,10 @@
 .vs/
+
+**/*.exe
+**/*.ilk
+**/*.*log
+**/*.pdb
+**/*.recipe
+**/*.idb
+**/*.*buildstate
+**/unsuccessfulbuild
