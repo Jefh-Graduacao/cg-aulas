@@ -21,18 +21,18 @@
   <ItemGroup>
     <ClCompile Include="..\utils\gl3w.c" />
     <ClCompile Include="..\utils\gl_utils.cpp" />
-    <ClCompile Include="00_learnopengl.cpp" />
+    <ClCompile Include="atividade_5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="fragment_shader.glsl" />
     <None Include="vertex_shader.glsl" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{9236691E-05E8-492B-AFE6-414E17A080E2}</ProjectGuid>
+    <ProjectGuid>{E18B8624-35AD-40EE-80F8-3F42A799EBB6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>My01_hellotriangle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>00_learnopengl</ProjectName>
+    <ProjectName>atividade_5</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
